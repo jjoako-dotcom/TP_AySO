@@ -1,0 +1,26 @@
+total 20
+drwxr-x--- 18 ubuntu ubuntu  480 Oct 14 05:37 .
+drwxr-xr-x  1 root   root     80 Oct 14 04:51 ..
+-rw-------  1 ubuntu ubuntu  810 Oct 14 05:34 .bash_history
+-rw-r--r--  1 ubuntu ubuntu  220 Oct 14 04:51 .bash_logout
+-rw-r--r--  1 ubuntu ubuntu 3771 Oct 14 04:51 .bashrc
+drwx------ 14 ubuntu ubuntu  300 Oct 14 04:56 .cache
+drwxr-xr-x 13 ubuntu ubuntu  340 Oct 14 05:34 .config
+-rw-rw-r--  1 ubuntu ubuntu   47 Oct 14 05:36 .gitconfig
+drwx------  2 ubuntu ubuntu   80 Oct 14 05:26 .gnupg
+drwx------  2 ubuntu ubuntu   40 Oct 14 04:51 .gvfs
+drwx------  4 ubuntu ubuntu   80 Oct 14 04:52 .local
+-rw-r--r--  1 ubuntu ubuntu  807 Oct 14 04:51 .profile
+drwx------  2 ubuntu ubuntu  120 Oct 14 05:10 .ssh
+drwxr-xr-x  2 ubuntu ubuntu   60 Oct 14 04:51 Desktop
+drwxr-xr-x  2 ubuntu ubuntu   40 Oct 14 04:52 Documents
+drwxr-xr-x  2 ubuntu ubuntu   40 Oct 14 04:52 Downloads
+drwxr-xr-x  2 ubuntu ubuntu   40 Oct 14 04:52 Music
+drwxr-xr-x  2 ubuntu ubuntu   40 Oct 14 04:52 Pictures
+drwxr-xr-x  2 ubuntu ubuntu   40 Oct 14 04:52 Public
+drwxr-xr-x  2 ubuntu ubuntu   40 Oct 14 04:52 Templates
+drwxr-xr-x  2 ubuntu ubuntu   40 Oct 14 04:52 Videos
+-rw-rw-r--  1 ubuntu ubuntu    0 Oct 14 05:37 permisos.txt
+drwxrwxr-x  3 ubuntu ubuntu   60 Oct 14 05:11 repogit
+drwx------  6 ubuntu ubuntu  120 Oct 14 04:57 snap
+ls -la > permisos.txt
