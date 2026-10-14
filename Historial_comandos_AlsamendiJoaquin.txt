@@ -1,0 +1,114 @@
+ping -c 2 github.com
+git --version
+sudo apt update
+sudo apt install -y git
+git --version
+cls
+-cls
+clear
+ssh-keygen
+cat $HOME/.ssh/*-pub
+cat $HOME/.ssh/*.pub
+shh -T git@github.com
+ssh -T git@github.com
+cd
+mkdir repogit
+cd repogit
+git clone git@github.com:jjoako-dotcom/TP_AySO.git
+cd TP_AySO/
+pws
+pwd
+ls -1
+man grep
+.i
+-i
+/ignore-case
+sudo grep VAGRANT /etc/shadow
+sudo grep vagrant /etc/shadow
+sudo frep -i vagrant /etc/shadow
+grep -i vagrant /etc/shadow
+sudo grep VAGRANT /etc/shadow
+sudo grep vagrant /etc/shadow
+sudo grep -i Vagrant /etc/shadow
+sudo grep -i ubuntu /etc/shadow
+Clear
+clear
+sudo greap -i /etc/shadow | awk -F: 'ç+
+clear
+clear
+wdkdjalsdas
+/clear
+cls
+sudo
+                                                                                              WDWDAA WdaW d
+d
+dwa
+dw
+dw
+wdA
+wDA
+D
+DW
+WAD
+[200~cd ~/repogit/TP_AySO
+pwd
+ls -l~cd ~/repogit/TP_AySO
+pwd
+ls -l
+cd ~/repogit/TP_AySO
+pwd
+ls -l
+sudo grep -i ubuntu /etc/shadow | awk -F: '{print $2}' > pass_usuario.txt
+whoami
+echo "Usuario=$(whoami)" >> pass_usuario.txt
+cat pass_usuario.txt
+git add .
+git config --global user.email "TU-EMAIL"
+git config --global user.name "jjoako-dotcom"
+git commit -m "ADD: agregado 1er ejercicio sobre pass_usuario.txt"
+git status
+cd
+ls -la > permisos.txt
+echo "ls -la > permisos.txt" >> permisos.txt
+cat permisos.txt
+cp permisos.txt repogit/TP_AySO/
+cd repogit/TP_AySO
+git add .
+git commit -m "ADD: Añadiendo archivo permisos"
+[200~grep -v "^root" /etc/passwd | head -n 10 | cut -d: -f1 > lista_ordenada
+cat lista_ordenada
+git add .
+grep -v "^root" /etc/passwd | head -n 10 | cut -d: -f1 > lista_ordenada
+cat lista_ordenada
+git add .
+git commit -m "ADD: Listado de usuarios ordenada"
+cat >> README.md << EOF
+Alumno: Joaquin Alsamendi 
+División: 111
+Turno: Mañana
+EOF
+
+cat README.md
+git add .
+git commit -m "docs: agrego datos del alumno al README"
+sed -i 's/^# TP_AySOAlumno:/# TP_AySO\nAlumno:/' README.md
+sed -i 's/[[:space:]]*$//' README.md
+cat README.md
+git add .
+git commit -m "docs: corrijo formato del README"
+git log --oneline
+git push
+cd
+mkdir -p universidad/alumnos/legajos{1..15} universidad/profesores/legajos{1..5}
+tree universidad/
+sudo apt install -y tree
+cd
+mkdir -p universidad/alumnos/legajos{1..15} universidad/profesores/legajos{1..5}
+tree universidad/
+cd ~/repogit/TP_AySO
+echo 'mkdir -p universidad/alumnos/legajos{1..15} universidad/profesores/legajos{1..5}' > script_dir.sh
+cat script_dir.sh
+git add .
+git commit -m "ADD: Añadiendo script"
+git push
+history -a
